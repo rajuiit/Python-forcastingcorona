@@ -5,7 +5,6 @@ Created on Thu Aug  9 10:26:09 2018
 """
 import dash_table_experiments as dte
 from parse_contents import parse_contents
-
 import forecast_example as fcst
 import dash_core_components as dcc
 import plotly.graph_objs as go
